@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Enthu.ai UI Analyzer",
+  "description": "An application that performs a deep UI/UX analysis of a given website (defaulting to enthu.ai) using the Gemini API and presents a comprehensive design document.",
+  "requestFramePermissions": []
+}
